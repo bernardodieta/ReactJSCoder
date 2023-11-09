@@ -29,3 +29,13 @@ align-items: center;
     background-color: #c3c48d;
 }
 
+span{
+    background-color: red;
+    color: white;
+    display: inline-block;
+    width: 20px;
+    text-align: center;
+    border-radius: 10px;
+    height: 20px;
+    
+}
